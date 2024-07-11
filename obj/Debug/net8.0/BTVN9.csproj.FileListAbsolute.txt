@@ -1,0 +1,14 @@
+D:\VS project\BTVN9\obj\Debug\net8.0\BTVN9.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\BTVN9\obj\Debug\net8.0\BTVN9.AssemblyInfoInputs.cache
+D:\VS project\BTVN9\obj\Debug\net8.0\BTVN9.AssemblyInfo.cs
+D:\VS project\BTVN9\obj\Debug\net8.0\BTVN9.csproj.CoreCompileInputs.cache
+D:\VS project\BTVN9\bin\Debug\net8.0\BTVN9.exe
+D:\VS project\BTVN9\bin\Debug\net8.0\BTVN9.deps.json
+D:\VS project\BTVN9\bin\Debug\net8.0\BTVN9.runtimeconfig.json
+D:\VS project\BTVN9\bin\Debug\net8.0\BTVN9.dll
+D:\VS project\BTVN9\bin\Debug\net8.0\BTVN9.pdb
+D:\VS project\BTVN9\obj\Debug\net8.0\BTVN9.dll
+D:\VS project\BTVN9\obj\Debug\net8.0\refint\BTVN9.dll
+D:\VS project\BTVN9\obj\Debug\net8.0\BTVN9.pdb
+D:\VS project\BTVN9\obj\Debug\net8.0\BTVN9.genruntimeconfig.cache
+D:\VS project\BTVN9\obj\Debug\net8.0\ref\BTVN9.dll
